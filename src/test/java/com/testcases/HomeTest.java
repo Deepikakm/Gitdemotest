@@ -18,6 +18,8 @@ test.setup(browser);
 HomePage home = new HomePage(driver);
 home.clicklink(); 
 System.out.println("testing git");
+System.out.println("testing git1");
+System.out.println("testing git2");
 		
 		
 		/*BaseTest test=new BaseTest();
