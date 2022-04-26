@@ -21,7 +21,10 @@ System.out.println("testing git");
 System.out.println("testing git1");
 System.out.println("testing git2");
 		
-		
+System.out.println("testing git3");
+System.out.println("testing git4");
+System.out.println("testing git5");
+System.out.println("testing git6");
 		/*BaseTest test=new BaseTest();
 		test.setup("chrome");
 		HomePage home = new HomePage(driver);
